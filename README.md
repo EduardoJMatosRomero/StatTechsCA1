@@ -40,3 +40,4 @@ The data collected to perform this report is the result of questions that have b
   - standard: : Population from 1.422 to 4.000€.
   - high: Population from 4.001 to 71.188€
 
+![image]()
